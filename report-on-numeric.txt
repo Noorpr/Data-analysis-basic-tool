@@ -1,0 +1,9 @@
+Age feature has the following:
+1- mean value: 44.068
+2- median value: 44.0
+3- first and the third quantiles: [np.float64(31.0), np.float64(57.0)]
+4- inter quantile range value: 26.0
+5- distributions:
+total number of outliers: 0
+this column is right skewed with value -0.0063797217209905395
+-------------------------

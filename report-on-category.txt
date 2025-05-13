@@ -1,0 +1,14 @@
+Gender feature has the following
+1- mode value: Male
+2- the frequency of the mode value: 2652
+3- count of non-null values: 3900
+4- the number of unique values: 2
+5- these unique values are : ['Male', 'Female']
+--------------------------------------------
+Size feature has the following
+1- mode value: M
+2- the frequency of the mode value: 1755
+3- count of non-null values: 3900
+4- the number of unique values: 4
+5- these unique values are : ['L', 'S', 'M', 'XL']
+--------------------------------------------
